@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/convi/static/css/main.073c9b0a.css",
+    "main.js": "/convi/static/js/main.a17bbc7a.js",
+    "static/js/787.21ab96ed.chunk.js": "/convi/static/js/787.21ab96ed.chunk.js",
+    "index.html": "/convi/index.html",
+    "main.073c9b0a.css.map": "/convi/static/css/main.073c9b0a.css.map",
+    "main.a17bbc7a.js.map": "/convi/static/js/main.a17bbc7a.js.map",
+    "787.21ab96ed.chunk.js.map": "/convi/static/js/787.21ab96ed.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.a17bbc7a.js"
+  ]
+}
